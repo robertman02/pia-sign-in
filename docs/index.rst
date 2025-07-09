@@ -3,7 +3,7 @@ How to Sign In Private Internet Access Account?
 
 In the world of digital security, a Virtual Private Network (VPN) is more than just a tool—it’s a necessity. **Private Internet Access (PIA)** is one of the leading VPN services globally, trusted by users who prioritize privacy, secure browsing, and unrestricted internet access. But before you can enjoy the features of PIA, you need to successfully navigate the process of **Private Internet Access sign in account**.
 
-.. image:: start.png
+.. image:: sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
