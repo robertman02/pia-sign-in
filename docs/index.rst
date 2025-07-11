@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://accountsign-in.com/">
+
 How to Sign In Private Internet Access Account?
 ===============================================
 
